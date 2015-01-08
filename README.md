@@ -1,0 +1,2 @@
+# scalaTest
+just a test
